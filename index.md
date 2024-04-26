@@ -5,3 +5,7 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 #### I am also supposed to include some alt text
+
+``` javascript
+var myVar = "Hello World!";
+```
